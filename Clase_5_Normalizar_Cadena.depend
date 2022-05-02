@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649896718 source:e:\unlam\programacion & tcp\programacion\normalizar_cadena\clase_5_normalizar_cadena\main.c
+	<stdio.h>
+	"lib/fun.h"
+
+1649896806 source:e:\unlam\programacion & tcp\programacion\normalizar_cadena\clase_5_normalizar_cadena\lib\fun.c
+	"fun.h"
+
+1649791108 e:\unlam\programacion & tcp\programacion\normalizar_cadena\clase_5_normalizar_cadena\lib\fun.h
+	<stdio.h>
+	<ctype.h>
+
